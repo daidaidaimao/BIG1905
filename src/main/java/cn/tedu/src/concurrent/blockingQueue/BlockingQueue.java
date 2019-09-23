@@ -1,4 +1,4 @@
-package cn.tedu.src.compliasjs包.blockingQueue;
+package cn.tedu.src.concurrent.blockingQueue;
 import org.junit.jupiter.api.Test;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.LinkedBlockingDeque;

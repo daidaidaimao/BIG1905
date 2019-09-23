@@ -1,4 +1,4 @@
-package cn.tedu.src.compliasjs包.blockingQueue;
+package cn.tedu.src.concurrent.blockingQueue;
 import lombok.Data;
 
 @Data
